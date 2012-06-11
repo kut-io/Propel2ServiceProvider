@@ -1,0 +1,24 @@
+{
+    "name": "propel/propel2-service-provider",
+    "type": "library",
+    "description": "Propel2 integrationfor Silex.",
+    "keywords": ["silex", "propel"],
+    "license": "MIT",
+    "authors": [
+    {
+        "name": "William Durand",
+        "email": "william.durand1@gmail.com"
+    },
+    {
+        "name": "Cristiano Cinotti",
+        "email": "cristianocinotti@gmail.com"
+    }
+    ],
+    "require": {
+        "silex/silex": ">=1.0",
+        "propel/propel": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "Propel\\Silex": "src" }
+    }
+}

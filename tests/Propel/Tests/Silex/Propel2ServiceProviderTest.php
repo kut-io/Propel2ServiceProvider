@@ -56,7 +56,7 @@ class PropelServiceProviderTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @expectedException  InvalidArgumentException
-     * @expectedExceptionMessage  Unable to guess the config file. Please, initialize the "propel.config_file" parameter.
+     * @expectedExceptionMessage  Unable to guess Propel config file. Please, initialize the "propel.config_file" parameter.
      */
     public function testConfigFilePropertyNotInitialized()
     {

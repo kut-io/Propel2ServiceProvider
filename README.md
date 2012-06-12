@@ -1,7 +1,7 @@
 PropelServiceProvider
 =====================
 
-[![Build Status](https://secure.travis-ci.org/propelorm/PropelServiceProvider.png?branch=master)](http://travis-ci.org/propelorm/PropelServiceProvider)
+[![Build Status](https://secure.travis-ci.org/cristianoc72/Propel2ServiceProvider.png?branch=master)](http://travis-ci.org/cristianoc72/Propel2ServiceProvider)
 
 The *Propel2ServiceProvider* provides integration with [Propel2](https://github.com/propelorm/Propel2) and [Silex](http://silex.sensiolabs.org)
 
